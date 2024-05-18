@@ -1,0 +1,14 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "GS_Gaffi",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.0440653861,
+  "OffY": -0.0286689419,
+  "Rotation": -2.0,
+  "ScaleX": 1.5,
+  "ScaleY": 1.5,
+  "BladeStart": 0.461975843,
+  "BladeEnd": 0.7491116,
+  "MeleeWeaponType": 56
+}

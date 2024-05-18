@@ -1,0 +1,13 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "guy762_vglaive_krath",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.239153445,
+  "Rotation": 45.0,
+  "ScaleX": 1.5,
+  "ScaleY": 1.5,
+  "BladeStart": 0.543915331,
+  "BladeEnd": 1.1915344,
+  "MeleeWeaponType": 48
+}

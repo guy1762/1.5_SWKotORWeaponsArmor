@@ -1,0 +1,19 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "guy762_vdubblade_sith",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": -0.0663176253,
+  "Rotation": 45.0,
+  "ScaleX": 2.0,
+  "ScaleY": 2.0,
+  "BladeStart": -0.5440994,
+  "BladeEnd": -2.0,
+  "MeleeWeaponType": 48,
+  "TrailTint": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  }
+}

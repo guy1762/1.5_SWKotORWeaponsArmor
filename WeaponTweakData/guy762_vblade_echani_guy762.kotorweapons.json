@@ -1,0 +1,11 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "guy762_vblade_echani",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.3363075,
+  "HandsMode": 1,
+  "BladeStart": 0.270523846,
+  "BladeEnd": 0.8245487,
+  "MeleeWeaponType": 6
+}

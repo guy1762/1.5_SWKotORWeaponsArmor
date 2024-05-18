@@ -1,0 +1,11 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "guy762_vsword_bacca",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.398763537,
+  "Rotation": 45.0,
+  "BladeStart": 0.334682852,
+  "BladeEnd": 0.8646465,
+  "MeleeWeaponType": 6
+}
