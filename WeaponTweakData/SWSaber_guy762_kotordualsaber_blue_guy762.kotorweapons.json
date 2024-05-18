@@ -1,0 +1,19 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_guy762_kotordualsaber_blue",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": -0.08291874,
+  "Rotation": 45.0,
+  "ScaleX": 2.0,
+  "ScaleY": 2.0,
+  "BladeStart": -0.442533225,
+  "BladeEnd": -2.0,
+  "MeleeWeaponType": 48,
+  "TrailTint": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 0.0
+  }
+}

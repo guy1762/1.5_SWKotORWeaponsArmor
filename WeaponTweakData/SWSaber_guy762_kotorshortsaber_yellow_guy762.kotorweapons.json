@@ -1,0 +1,12 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_guy762_kotorshortsaber_yellow",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.399115533,
+  "Rotation": 45.0,
+  "HandsMode": 1,
+  "BladeStart": 0.265436471,
+  "BladeEnd": 1.21362674,
+  "MeleeWeaponType": 48
+}

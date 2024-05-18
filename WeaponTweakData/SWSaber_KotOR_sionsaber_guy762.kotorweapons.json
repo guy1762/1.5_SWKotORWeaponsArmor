@@ -1,0 +1,11 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_KotOR_sionsaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.4286718,
+  "Rotation": 45.0,
+  "BladeStart": 0.192550942,
+  "BladeEnd": 1.02118647,
+  "MeleeWeaponType": 6
+}

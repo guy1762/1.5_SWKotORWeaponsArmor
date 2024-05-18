@@ -1,0 +1,13 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_KotOR_malaksaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.488188982,
+  "Rotation": 45.0,
+  "ScaleX": 1.5,
+  "ScaleY": 1.5,
+  "BladeStart": 0.204724416,
+  "BladeEnd": 1.18666661,
+  "MeleeWeaponType": 6
+}

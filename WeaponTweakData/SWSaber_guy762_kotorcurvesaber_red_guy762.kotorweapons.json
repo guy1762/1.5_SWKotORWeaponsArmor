@@ -1,0 +1,12 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_guy762_kotocurvesaber_red",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.4630915,
+  "Rotation": 45.0,
+  "HandsMode": 1,
+  "BladeStart": 0.336908519,
+  "BladeEnd": 1.35161293,
+  "MeleeWeaponType": 6
+}

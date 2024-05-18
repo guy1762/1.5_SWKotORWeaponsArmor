@@ -1,0 +1,13 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_guy762_kotorcrosssaber_blue",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.5312303,
+  "Rotation": 45.0,
+  "ScaleX": 1.5,
+  "ScaleY": 1.5,
+  "BladeStart": 0.2384858,
+  "BladeEnd": 2.0,
+  "MeleeWeaponType": 6
+}

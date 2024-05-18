@@ -1,0 +1,12 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_KotOR_revansaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.4566929,
+  "Rotation": 45.0,
+  "HandsMode": 1,
+  "BladeStart": 0.22763063,
+  "BladeEnd": 1.02118647,
+  "MeleeWeaponType": 6
+}

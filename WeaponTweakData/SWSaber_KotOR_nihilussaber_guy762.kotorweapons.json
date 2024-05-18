@@ -1,0 +1,12 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_KotOR_nihilussaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.468146026,
+  "Rotation": 45.0,
+  "HandsMode": 1,
+  "BladeStart": 0.233357191,
+  "BladeEnd": 1.02118647,
+  "MeleeWeaponType": 6
+}

@@ -1,0 +1,11 @@
+{
+  "TextureModID": "guy762.kotorweapons",
+  "ItemDefName": "SWSaber_guy762_kotordarksaber",
+  "ItemType": "ThingDef",
+  "ItemTypeNamespace": "Verse",
+  "OffX": 0.398763537,
+  "Rotation": 45.0,
+  "BladeStart": 0.16687116,
+  "BladeEnd": 1.35161293,
+  "MeleeWeaponType": 6
+}
