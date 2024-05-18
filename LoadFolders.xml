@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.5>
+		<li>/</li>
+		<li>1.5</li>
+		<li IfModActive="Roolo.DualWield">1.5/AdditionalMods/DualWield</li>
+		<li IfModActive="smartkar.athenaframework">1.5/AdditionalMods/AthenaFramework</li>
+		
+		<li IfModActive="VanillaExpanded.VPsycastsE">1.5/AdditionalMods/VPE</li>
+		<li IfModActive="BiomesTeam.BiomesCaverns">1.5/AdditionalMods/BiomesCaverns</li>
+		
+		<li IfModNotActive="guy762.KotORDroids">1.5/AdditionalMods/_NO_KotORDroids</li>
+		<li IfModActive="lee.theforce.psycast">1.5/AdditionalMods/_ForceVPE</li>
+	</v1.5>
+</loadFolders>

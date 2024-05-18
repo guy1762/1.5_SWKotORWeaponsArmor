@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <guy762_slot_colorcrystal>Color crystal</guy762_slot_colorcrystal>
+  <guy762_slot_focuscrystal>Focusing crystal</guy762_slot_focuscrystal>
+  <guy762_slot_powercrystal>Power crystal</guy762_slot_powercrystal>
+  
+  <!--guy762_slot_powercrystal_short>Power crystal</guy762_slot_powercrystal_short>
+  <guy762_slot_powercrystal_single>Power crystal</guy762_slot_powercrystal_single-->
+  <guy762_slot_powercrystal_dual>Power crystal</guy762_slot_powercrystal_dual>
+  <guy762_slot_powercrystal_cross>Power crystal</guy762_slot_powercrystal_cross>
+  <guy762_slot_powercrystal_curve>Power crystal</guy762_slot_powercrystal_curve>
+  
+  <guy762_slot_naddsabercolor>Color crystal</guy762_slot_naddsabercolor>
+  <guy762_slot_darksabercolor>Color crystal</guy762_slot_darksabercolor>
+  <guy762_slot_exarsabercolor>Color crystal</guy762_slot_exarsabercolor>
+  <guy762_slot_sionsabercolor>Color crystal</guy762_slot_sionsabercolor>
+  
+  <guy762_slot_lens>Focusing lens</guy762_slot_lens>
+  <guy762_slot_emitter>Emitter matrix</guy762_slot_emitter>
+  <guy762_slot_sabercell>Power cell</guy762_slot_sabercell>
+  
+  <guy762_slot_edge>Blade edge</guy762_slot_edge>
+  <guy762_slot_cell>Energy cell</guy762_slot_cell>
+  <guy762_slot_grip>Grip</guy762_slot_grip>
+  <guy762_slot_alloy>Core alloy</guy762_slot_alloy>
+  
+  <guy762_slot_cell_vblade>Energy cell</guy762_slot_cell_vblade>
+  <guy762_slot_cell_vsword>Energy cell</guy762_slot_cell_vsword>
+  <guy762_slot_cell_vdblade>Energy cell</guy762_slot_cell_vdblade>
+  <guy762_slot_cell_vaxe>Energy cell</guy762_slot_cell_vaxe>
+  <guy762_slot_cell_vglaive>Energy cell</guy762_slot_cell_vglaive>
+  <guy762_slot_cell_sbaton>Energy cell</guy762_slot_cell_sbaton>
+  <guy762_slot_cell_estaff>Energy cell</guy762_slot_cell_estaff>
+  
+  <guy762_slot_scope>Scope</guy762_slot_scope>
+  <guy762_slot_power>Power cell</guy762_slot_power>
+  <guy762_slot_chamber>Firing chamber</guy762_slot_chamber>
+  <guy762_slot_trigger>Trigger mechanism</guy762_slot_trigger>
+  <guy762_slot_beam>Beam focusing</guy762_slot_beam>
+  
+  <guy762_slot_power_NoVerb>Power cell</guy762_slot_power_NoVerb>
+  <guy762_slot_beam_NoVerb>Beam focusing</guy762_slot_beam_NoVerb>
+  <guy762_slot_trigger_NoVerb>Trigger mechanism</guy762_slot_trigger_NoVerb>
+  
+  <guy762_slot_power_dis>Power cell</guy762_slot_power_dis>
+  <guy762_slot_beam_dis>Beam focusing</guy762_slot_beam_dis>
+  <guy762_slot_trigger_dis>Trigger mechanism</guy762_slot_trigger_dis>
+  
+  <guy762_slot_power_ion>Power cell</guy762_slot_power_ion>
+  <guy762_slot_beam_ion>Beam focusing</guy762_slot_beam_ion>
+  <guy762_slot_trigger_ion>Trigger mechanism</guy762_slot_trigger_ion>
+  
+  <guy762_slot_power_stun>Power cell</guy762_slot_power_stun>
+  <guy762_slot_beam_stun>Beam focusing</guy762_slot_beam_stun>
+  <guy762_slot_trigger_stun>Trigger mechanism</guy762_slot_trigger_stun>
+  
+  <guy762_slot_power_slug>Power cell</guy762_slot_power_slug>
+  <guy762_slot_beam_slug>Beam focusing</guy762_slot_beam_slug>
+  <guy762_slot_power_bow>Power cell</guy762_slot_power_bow>
+  <guy762_slot_trigger_lgtrep>Trigger mechanism</guy762_slot_trigger_lgtrep>
+  <guy762_slot_trigger_hvyrep>Trigger mechanism</guy762_slot_trigger_hvyrep>
+  <guy762_slot_beam_hvyrep>Beam focusing</guy762_slot_beam_hvyrep>
+  
+  <guy762_slot_underlay_robe>Underlay</guy762_slot_underlay_robe>
+  <guy762_slot_underlay_hat>Underlay</guy762_slot_underlay_hat>
+  <guy762_slot_underlay>Underlay</guy762_slot_underlay>
+  <guy762_slot_underlay_hvy>Underlay</guy762_slot_underlay_hvy>
+  <guy762_slot_overlay>Overlay</guy762_slot_overlay>
+  <guy762_slot_overlay_hvy>Overlay</guy762_slot_overlay_hvy>
+  <guy762_slot_armortech>Armor tech</guy762_slot_armortech>
+  <guy762_slot_helmettech>Helmet tech</guy762_slot_helmettech>
+  <guy762_slot_helmettech_visor>Helmet tech</guy762_slot_helmettech_visor>
+  
+  <guy762_slot_wristgun>Wrist weapon</guy762_slot_wristgun>
+  <guy762_slot_missile>Missile</guy762_slot_missile>
+  
+  
+  
+  
+  <SWSaber_TextMote_CriticalSuccess>Critical Hit</SWSaber_TextMote_CriticalSuccess>
+  <SWSaber_TextMote_CriticalFailure>Critical Miss</SWSaber_TextMote_CriticalFailure>
+  <SWSaber_Block>Blocked</SWSaber_Block>
+  
+  <SelfHediffVerb_CooltimeRemain>Cooldown - {0}s remaining</SelfHediffVerb_CooltimeRemain>
+ 
+  
+</LanguageData>
